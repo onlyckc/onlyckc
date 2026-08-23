@@ -4,7 +4,7 @@
 
 onlyLunarV
 
-![FiveM](https://img.shields.io/badge/FiveM-Development-111827?style=for-the-badge&logo=fivem&logoColor=white)
+![FiveM](https://img.shields.io/badge/FiveM-LunarV-111827?style=for-the-badge&logo=fivem&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
