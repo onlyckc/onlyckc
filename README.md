@@ -10,7 +10,7 @@ onlyLunarV
 
 ---
 
-# LunarV Client
+LunarV Client
 [`onlyckc/lunar-client-updates`](https://github.com/onlyckc/lunar-client-updates)
 
 ---
