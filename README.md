@@ -8,13 +8,6 @@ onlyLunarV
 
 </div>
 
----
-
-LunarV Client
-[`onlyckc/lunar-client-updates`](https://github.com/onlyckc/lunar-client-updates)
-
----
-
 <div align="center">
 
 </div>
